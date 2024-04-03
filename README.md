@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Mi Persona(IA)](./assets/Fotaca.png)
 
 Bienvenidos a
 # Programación con objetos I

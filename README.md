@@ -7,8 +7,8 @@ Buenas me llamo Ramiro Castro, tengo 19 años, llevo enganchado a los videojuego
 
 ## Mis Redes
 - [x] [Github](https://github.com/RamaRamons)
-- [x] [Instagram]([)](https://www.instagram.com/ramar4mon?utm_source=qr&igsh=MXB4ZzhxYjdiNWFvag==)
-- [x] [Steam]()
+- [x] [Instagram](https://www.instagram.com/ramar4mon?utm_source=qr&igsh=MXB4ZzhxYjdiNWFvag==)
+- [x] [Steam](https://steamcommunity.com/id/RamaRamon/)
 
 
 ### Sitios WEB que Frecuento 

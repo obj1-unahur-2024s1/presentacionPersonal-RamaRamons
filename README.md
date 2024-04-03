@@ -1,4 +1,4 @@
-![Mi Persona(IA)](./assets/Fotaca.png)
+![Mi Persona(IA)](./assets/Fotaca.jpg)
 
 Bienvenidos a
 # Programación con objetos I

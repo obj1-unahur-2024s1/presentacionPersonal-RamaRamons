@@ -1,30 +1,14 @@
 ![Mi Persona(IA)](./assets/Fotaca.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+Bienvenidos a mi Presentaciòn
+# Cosas Sobre mi I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Buenas me llamo Ramiro Castro, tengo 19 años, llevo enganchado a los videojuegos desde que tengo uso de razon, empeze con el family y me quede en la pc, mis juegos favoritos son el CS2 (anteriormente CSGO) Minecraft, y juegos indie
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Mis Redes
+- [x] [Github](https://github.com/RamaRamons)
+- [x] [Instagram]()
+- [x] [Steam]()
 
 
 ### Sitios WEB que Frecuento 
